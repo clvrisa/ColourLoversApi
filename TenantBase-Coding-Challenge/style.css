@@ -1,0 +1,52 @@
+body*
+{
+  background-color: rgba(36, 167, 228, 0.699);
+  font-family: Lato;
+  font-size:30px;
+}
+h1
+{
+  font-weight: 100;
+  font-size: 60px;
+}
+.container
+{
+  background-color: rgba(36, 167, 228, 0.699);
+  color:white;
+  margin: center;
+  padding:20px;
+}
+.title
+{
+  font-size: 30px;
+  font-weight: 300;
+}
+.author
+{
+  font-size: 20px;
+  font-weight: 200;
+}
+.popularity
+{
+  background-color:rgba(52, 76, 122, 0.753);
+  padding:9px;
+  border-radius: 2px;
+}
+div
+{
+  padding:10px;
+}
+.timeUpdate
+{
+  text-align: right;
+}
+h4
+{
+  text-align: right;
+}
+.copy
+{
+  text-align: right;
+  font-size: 30px;
+  padding:20px;
+}
